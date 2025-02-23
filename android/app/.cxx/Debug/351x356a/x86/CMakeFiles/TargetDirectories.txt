@@ -1,0 +1,2 @@
+C:/Users/ASUS/homework3/homework3/android/app/.cxx/Debug/351x356a/x86/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/homework3/homework3/android/app/.cxx/Debug/351x356a/x86/CMakeFiles/rebuild_cache.dir
